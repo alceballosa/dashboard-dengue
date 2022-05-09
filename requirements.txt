@@ -7,4 +7,3 @@ numpy
 plotly
 flask-caching
 gunicorn
-dotenv
