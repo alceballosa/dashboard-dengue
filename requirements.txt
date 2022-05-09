@@ -1,0 +1,9 @@
+python==3.9.12
+dash
+dash-bootstrap-components
+dash-html-components
+pandas
+matplotlib
+numpy
+plotly
+gunicorn
