@@ -1,9 +1,7 @@
 from pathlib import Path
 
-import dash_cytoscape as cyto
-import matplotlib.cm as cm
-import matplotlib.colors as mcolors
-import numpy as np
+# import matplotlib.cm as cm
+# import matplotlib.colors as mcolors
 import pandas as pd
 import plotly.express as px
 

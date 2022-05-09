@@ -5,4 +5,5 @@ pandas
 matplotlib
 numpy
 plotly
+flask-caching
 gunicorn
