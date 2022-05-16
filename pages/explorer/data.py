@@ -8,6 +8,8 @@ import plotly.express as px
 city_codes_to_names = {
     54001: "Cúcuta",
     91001: "Leticia",
+    76001: "Cali",
+    5001: "Medellín",
 }
 
 

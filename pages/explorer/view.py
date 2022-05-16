@@ -61,6 +61,11 @@ text_description = html.P(
     """
     A continuación dispone de varias secciones en las que puede visualizar las series
     de tiempo de Dengue y datos climáticos de cada variable de interés.
+
+    Puede visualizar una única serie de tiempo haciendo doble clic sobre la leyenda a
+    la derecha de cada visualización. También puede hacer zoom seleccionando un área
+    de interés en la gráfica, o pasar el ratón por encima de cualquiera de las líneas
+    para obtener los valores específicos que estas codifican.
     """
 )
 
